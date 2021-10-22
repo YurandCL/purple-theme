@@ -1,0 +1,32 @@
+{
+  "name": "purple-theme",
+  "displayName": "purple-theme",
+  "description": "is a purple theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/purple-icon.svg",
+  "author": {
+    "name": "Yurand Coloma",
+    "email": "yurandcolomalinares@gmail.com",
+    "url": "https://www.linkedin.com/in/yurand-coloma-linares-b8506318a/"
+  },
+  "repository": {
+    "url": "https://github.com/YurandCL/purple-theme.git",
+    "type": "git"
+  },
+  "publisher": "purple-theme"
+}
